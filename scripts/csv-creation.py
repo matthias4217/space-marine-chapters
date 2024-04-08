@@ -29,22 +29,14 @@ Chapter file :
 
 For Homebrew chapters, we could add the source and the creator.
 
-# Improvements :
-
-* How should we treat chapters that have been corrupted and changed names ?
-
-## Attributes
-
-* true/false category for mutations in the geneseed
-    * Only those for which it’s physically distinct ?
-* Chaos God allegiance
-* Current status (active, destroyed…)
-
-## Manual edits
-
-* The Flawless Host/Flawless Host, The duplicate
-* The Cleaved
-* Alpha Legion is Renegade/Chaos
+* The duplicates :
+  * [x] Cleaved, The
+  * [x] Flawless Host, The
+  * [x] Purge, The
+  * [x] Pyre, The
+  * [x] Reborn, The
+  * [x] Sanctified, The
+  * [x] Scourged, The
 """
 
 def get_chapters_from_lexicanum():
@@ -64,10 +56,11 @@ def get_chapters_from_lexicanum():
                 chapters.append({
                     "Name": chapter_name,
                     "Allegiance": "",
+                    "Faction": "",
                     "Chapter of origin": "",
                     "Founding": "",
                     "Legion": False,
-                    "Homebrew": False
+                    "Homebrew": False,
                     })
             letter = letter.next_sibling.next_sibling.next_sibling.next_sibling
     return chapters
@@ -97,6 +90,7 @@ def add_fandom_sm(chapters):
                 chapters.append({
                     "Name": chapter_name,
                     "Allegiance": "Loyalist",
+                    "Faction": "Imperium",
                     "Chapter of origin": chapter_of_origin,
                     "Founding": chapter_founding,
                     "Legion": False,
@@ -132,6 +126,7 @@ def add_fandom_csm(chapters):
                 chapters.append({
                     "Name": chapter_name,
                     "Allegiance": "Renegade/Chaos",
+                    "Faction": "",
                     "Chapter of origin": chapter_of_origin,
                     "Founding": chapter_founding,
                     "Legion": False,
@@ -152,7 +147,7 @@ def set_legions(chapters: list[list]):
     
 
 def write_chapters(chapters: list[list]):
-    fieldnames = ['Name', 'Allegiance', 'Chapter of origin', 'Founding', 'Legion', 'Homebrew']
+    fieldnames = ['Name', 'Allegiance', "Faction", 'Chapter of origin', 'Founding', 'Legion', 'Homebrew']
     with open(OUTPUT_FILE, 'w') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -161,6 +156,6 @@ def write_chapters(chapters: list[list]):
 chapters = set_legions(add_fandom_csm(add_fandom_sm(get_chapters_from_lexicanum())))
 #print(chapters)
 write_chapters(chapters)
-print(get_random_chapter(chapters))
+#print(get_random_chapter(chapters))
 
 
