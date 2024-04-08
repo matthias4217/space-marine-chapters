@@ -33,6 +33,10 @@ This is not necessarily a first-founding chapter.
 
 From which founding the chapter originates.
 Many Chaos warbands do not have such an attribute.
+This can be :
+* An integer, for the number of the founding
+* A date, for the date of founding (M36 for instance)
+* Ultima, for the [Ultima founding](https://wh40k.lexicanum.com/wiki/Founding#Ultima_Founding) 
 
 ## Status
 
