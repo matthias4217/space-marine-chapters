@@ -38,6 +38,7 @@ Many Chaos warbands do not have such an attribute.
 
 Chapter status can be :
 * Active
+* Renamed
 * Destroyed
 
 ## Legion
