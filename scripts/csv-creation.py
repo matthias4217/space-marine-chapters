@@ -19,24 +19,7 @@ Data from :
     * https://warhammer40k.fandom.com/wiki/List_of_Space_Marine_Chapters
     * https://warhammer40k.fandom.com/wiki/List_of_Chaos_Space_Marine_Warbands
     * https://wh40khomebrew.fandom.com/wiki/Warhammer_40,000_Homebrew_Wiki
-Chapter file :
-    * Chapter name
-    * Chapter allegiance
-    * Chapter of origin
-    * Founding
-    * Is it one of the legions ?
-    * Is it homebrew ?
 
-For Homebrew chapters, we could add the source and the creator.
-
-* The duplicates :
-  * [x] Cleaved, The
-  * [x] Flawless Host, The
-  * [x] Purge, The
-  * [x] Pyre, The
-  * [x] Reborn, The
-  * [x] Sanctified, The
-  * [x] Scourged, The
 """
 
 def get_chapters_from_lexicanum():
