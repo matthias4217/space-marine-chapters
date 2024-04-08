@@ -59,6 +59,7 @@ def get_chapters_from_lexicanum():
                     "Faction": "",
                     "Chapter of origin": "",
                     "Founding": "",
+                    "Status": "",
                     "Legion": False,
                     "Homebrew": False,
                     })
@@ -93,6 +94,7 @@ def add_fandom_sm(chapters):
                     "Faction": "Imperium",
                     "Chapter of origin": chapter_of_origin,
                     "Founding": chapter_founding,
+                    "Status": "",
                     "Legion": False,
                     "Homebrew": False,
                     })
@@ -129,6 +131,7 @@ def add_fandom_csm(chapters):
                     "Faction": "",
                     "Chapter of origin": chapter_of_origin,
                     "Founding": chapter_founding,
+                    "Status": "",
                     "Legion": False,
                     "Homebrew": False,
                     })
@@ -147,7 +150,7 @@ def set_legions(chapters: list[list]):
     
 
 def write_chapters(chapters: list[list]):
-    fieldnames = ['Name', 'Allegiance', "Faction", 'Chapter of origin', 'Founding', 'Legion', 'Homebrew']
+    fieldnames = ['Name', 'Allegiance', 'Faction', 'Chapter of origin', 'Founding', 'Status', 'Legion', 'Homebrew']
     with open(OUTPUT_FILE, 'w') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()

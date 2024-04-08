@@ -34,6 +34,12 @@ This is not necessarily a first-founding chapter.
 From which founding the chapter originates.
 Many Chaos warbands do not have such an attribute.
 
+## Status
+
+Chapter status can be :
+* Active
+* Destroyed
+
 ## Legion
 
 Boolean, True if it was part of the twenty original legions, else False.

@@ -12,13 +12,8 @@ The database is collected as a CSV, so that it can be easily read and parsed, ev
 ## What is included
 
 One CSV file contains all the "official" Space Marine chapters, warbands and legions.
-For each one, the following information has been collected :
-* Name
-* Allegiance
-* Chapter of origin (if known)
-* Founding (if known)
-* Legion (True/False, to be able to get only Crusade-era legions)
-* Homebrew (True/False depending on whether it’s an official chapter or fanmade)
+For each one, some information has been collected.
+The full list of attributes used is displayed on [this page](attributes.md).
 
 ## How to use
 
