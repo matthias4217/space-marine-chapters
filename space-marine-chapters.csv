@@ -152,6 +152,7 @@ Brazen Fists,Loyalist,Imperium,,,Active,False,False
 Brazen Guard,Renegade/Chaos,,,,,False,False
 Brazen Minotaurs,Loyalist,Imperium,,,Active,False,False
 Brazen Skulls,Loyalist,Imperium,,Ultima,Active,False,False
+Brethren Esoteric,Loyalist,Imperium,,,Active,False,False
 Bringers of Decay,Renegade/Chaos,Nurgle,Black Legion,,Active,False,False
 Bringers of Judgement,Loyalist,Imperium,Dark Angels,,Active,False,False
 Bronze Gorgons,Renegade/Chaos,,,,Renamed,False,False
@@ -291,72 +292,75 @@ Eightscarred,Renegade/Chaos,Khorne,,,Active,False,False
 Emissaries of Wasting Death,Renegade/Chaos,Nurgle,,,Active,False,False
 Emperor's Children,Renegade/Chaos,Slaanesh,,1,Active,True,False
 Emperor's Claws,Loyalist,Imperium,,,Active,False,False
-Emperor's Hands,Loyalist,,Unknown,Unknown,,False,False
-Emperor's Hawks,Loyalist,,Unknown,Unknown,,False,False
-Emperor's Scythes,Loyalist,Imperium,Unknown,Unknown,,False,False
-Emperor's Shadows,Loyalist,,Unknown,Unknown,,False,False
-Emperor's Shields,Loyalist,Imperium,Unknown,Unknown,,False,False
-Emperor's Spears,Loyalist,,Ultramarines,25th Founding,,False,False
-Emperor's Storm,Loyalist,,Unknown,Unknown,,False,False
-Emperor's Swords,Loyalist,,Unknown,Unknown,,False,False
-Emperor's Swords,Loyalist,,Unknown,Unknown,,False,False
-Emperor's Swords (Bellicas),Loyalist,Imperium,Unknown,Unknown,,False,False
-Emperor's Warbringers,Loyalist,,Imperial Fists,Unknown,,False,False
-Emperor's Wolves,Loyalist,,Unknown,Unknown,,False,False
-Emperor's Wolves 8th Company,Renegade/Chaos,,Emperor's Wolves,Unknown,,False,False
-Emperor's Wrath,Loyalist,Imperium,Unknown,Unknown,,False,False
-Empyrion's Blight,Renegade/Chaos,,Death Guard,Unknown,,False,False
-Encrusted Blade,Renegade/Chaos,,unknown,Unknown,,False,False
-Endless Murder,Renegade/Chaos,,World Eaters,Unknown,,False,False
-Espandors,Loyalist,,Unknown,Unknown,,False,False
-Excoriators,Loyalist,,Imperial Fists,Second Founding,,False,False
-Excubants,Loyalist,,Unknown,Unknown,,False,False
-Execrators,Loyalist,,Unknown,Unknown,,False,False
-Executioners,Loyalist,,Imperial Fists,Third Founding,,False,False
-Exemplars,Loyalist,,Unknown,Unknown,,False,False
-Exorcists,Loyalist,,Imperial Fists,13th Founding,,False,False
-Exquisite Host,Renegade/Chaos,,Emperor's Children,Unknown,,False,False
-Exsanguinators,Loyalist,Imperium,Blood Angels,Unknown,,False,False
-Extinction Angels,Renegade/Chaos,,Unknown,Unknown,,False,False
-Falling Star,Loyalist,Imperium,Unknown,Unknown,,False,False
-Farstalkers,Loyalist,Imperium,Unknown,Unknown,,False,False
-Favoured Sons,Renegade/Chaos,,Death Guard,First Founding,,False,False
-Fecund Ones,Renegade/Chaos,,Death Guard,First Founding,,False,False
-Filth-favoured,Renegade/Chaos,,Death Guard,First Founding,,False,False
-Fire Angels,Loyalist,,Ultramarines,25th Founding,,False,False
-Fire Claws,Loyalist,Imperium,Ultramarines,Unknown,,False,False
-Fire Claws (,,,,,,False,False
-Fire Hawks,Loyalist,,Ultramarines,21st Founding,,False,False
-Fire Lords,Loyalist,,Unknown (,Unknown,,False,False
-Fire Reavers,Renegade/Chaos,,Unknown,Unknown,,False,False
-Firebreathers,Loyalist,Imperium,Unknown,Unknown,,False,False
-Fists Exemplar,Loyalist,Imperium,Imperial Fists,Second Founding,,False,False
-Fists of Brass,Renegade/Chaos,,Unknown,Unknown,,False,False
-Fists of Olchis,Renegade/Chaos,,Unknown,Unknown,,False,False
-Flame Eagles,Loyalist,,Raven Guard,Unknown,,False,False
-Flame Falcons,Renegade/Chaos,,Unknown,21st Founding,,False,False
-Flesh Eaters,Loyalist,,Blood Angels,Unknown,,False,False
-Flesh Tearers,Loyalist,,Blood Angels,Second Founding,,False,False
-Flickering Blades,Renegade/Chaos,,Emperor's Children,Unknown,,False,False
-Foresworn (Word Bearers),Renegade/Chaos,,Word Bearers,Unknown,,False,False
-Foresworn (World Eaters),Renegade/Chaos,,World Eaters,Unknown,,False,False
-Forgeborn,Renegade/Chaos,,Unknown,Unknown,,False,False
-Fulminators,Loyalist,Imperium,Ultramarines,Ultima Founding,,False,False
-Genesis,,,,,,False,False
-Genesis Chapter,Loyalist,Imperium,Ultramarines,Second Founding,,False,False
-Germinatoris,Renegade/Chaos,,unknown,Unknown,,False,False
-Gladiator Group 138,Renegade/Chaos,,World Eaters,Unknown,,False,False
-Glooming Lords,Renegade/Chaos,,Death Guard,First Founding,,False,False
-Golden Blades,Loyalist,Imperium,Unknown,Unknown,,False,False
-Golden Gryphons,Loyalist,,Unknown,Unknown,,False,False
-Golden Halos,Loyalist,,Unknown,Unknown,,False,False
-Golden Paladins,Loyalist,Imperium,Unknown,Unknown,,False,False
-Golden Sons,Loyalist,Imperium,Blood Angels,Unknown,,False,False
-Gore Golems,Loyalist,Imperium,Unknown,Unknown,,False,False
-Gorehands,Renegade/Chaos,,Unknown,Unknown,,False,False
-Gorehounds,Renegade/Chaos,,Unknown,Unknown,,False,False
-Goremongers,Renegade/Chaos,,Unknown,Unknown,,False,False
-Gorgons,Loyalist,,Unknown,Unknown,,False,False
+Emperor's Hands,Loyalist,Imperium,,,,False,False
+Emperor’s Havoc,Loyalist,Imperium,Imperial Fists,,Active,False,False
+Emperor's Hawks,Loyalist,Imperium,,,,False,False
+Emperor’s Paladins,Loyalist,Imperium,,,,False,False
+Emperor’s Pointy Sticks,Loyalist,Imperium,,,Active,False,False
+Emperor's Scythes,Loyalist,Imperium,,,Active,False,False
+Emperor's Shadows,Loyalist,Imperium,,,,False,False
+Emperor's Shields,Loyalist,Imperium,,,Active,False,False
+Emperor's Spears,Loyalist,Imperium,Ultramarines,25,Active,False,False
+Emperor's Storm,Loyalist,Imperium,,,Active,False,False
+Emperor's Swords (Ghorstangrad),Loyalist,Imperium,,,Destroyed,False,False
+Emperor's Swords (Bellicas),Loyalist,Imperium,,,Active,False,False
+Emperor's Warbringers,Loyalist,Imperium,Imperial Fists,,Active,False,False
+Emperor's Wolves,Loyalist,Imperium,,,Active,False,False
+Emperor's Wrath,Loyalist,Imperium,,,Active,False,False
+Empyrion's Blight,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
+Encrusted Blade,Renegade/Chaos,Khorne,,,,False,False
+Endless Murder,Renegade/Chaos,Khorne,World Eaters,,Destroyed,False,False
+Espandors,Loyalist,Imperium,,,,False,False
+Excoriators,Loyalist,Imperium,Imperial Fists,2,Active,False,False
+Excruciators,Loyalist,Imperium,,,Active,False,False
+Excubants,Loyalist,Imperium,,,,False,False
+Execrators,Loyalist,Imperium,,,,False,False
+Executioners,Loyalist,Imperium,Imperial Fists,3,Active,False,False
+Exemplars,Loyalist,Imperium,,,Active,False,False
+Exorcists,Loyalist,Imperium,Imperial Fists,13,Active,False,False
+Exquisite Host,Renegade/Chaos,Slaanesh,,,,False,False
+Exsanguinators,Loyalist,Imperium,Blood Angels,,Active,False,False
+Extinction Angels,Renegade/Chaos,,,,,False,False
+Falling Star,Loyalist,Imperium,,,,False,False
+Farstalkers,Loyalist,Imperium,,,Active,False,False
+Favoured Sons,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
+Fecund Ones,Renegade/Chaos,Nurgle,,,Active,False,False
+Filthfavoured,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
+Fire Angels,Loyalist,Imperium,Ultramarines,25,Active,False,False
+Fire Claws,Renegade/Chaos,,,M36,Renamed,False,False
+Fire Hawks,Loyalist,Imperium,Ultramarines,21,Destroyed,False,False
+Fire Lords,Loyalist,Imperium,,,Active,False,False
+Fire Reavers,Renegade/Chaos,,,,,False,False
+Firebreathers,Loyalist,Imperium,,,Active,False,False
+Fists Exemplar,Loyalist,Imperium,Imperial Fists,2,Destroyed,False,False
+Fists of Brass,Renegade/Chaos,Khorne,,,Destroyed,False,False
+Fists of Olchis,Renegade/Chaos,,,,,False,False
+Fists of Wrath,Loyalist,Imperium,Imperial Fists,,,False,False
+Flame Eagles,Loyalist,Imperium,Raven Guard,,,False,False
+Flame Falcons,Renegade/Chaos,,,21,,False,False
+Flesh Eaters,Loyalist,Imperium,Blood Angels,,Active,False,False
+Flesh Tearers,Loyalist,Imperium,Blood Angels,2,Active,False,False
+Flickering Blades,Renegade/Chaos,Slaanesh,,,,False,False
+Foresworn (Word Bearers),Renegade/Chaos,Chaos Undivided,Word Bearers,,,False,False
+Foresworn (World Eaters),Renegade/Chaos,Khorne,World Eaters,M31,Active,False,False
+Forgeborn,Renegade/Chaos,,Iron Warriors,,Active,False,False
+Forlorn Sons,Loyalist,Imperium,,,Active,False,False
+Fulminators,Loyalist,Imperium,Ultramarines,Ultima,Active,False,False
+Furor Marines,Loyalist,Imperium,,,,False,False
+Genesis Chapter,Loyalist,Imperium,Ultramarines,2,Active,False,False
+Germinatoris,Renegade/Chaos,Nurgle,,,,False,False
+Gladiator Group 138,Renegade/Chaos,Khorne,,,,False,False
+Glooming Lords,Renegade/Chaos,Nurgle,,,Active,False,False
+Golden Blades,Renegade/Chaos,,,,Active,False,False
+Golden Gryphons,Loyalist,Imperium,,,,False,False
+Golden Halos,Loyalist,Imperium,,M36,Active,False,False
+Golden Paladins,Loyalist,Imperium,,,,False,False
+Golden Sons,Loyalist,Imperium,Blood Angels,M38,Active,False,False
+Gore Golems,Loyalist,Imperium,,,Active,False,False
+Gorehands,Renegade/Chaos,Khorne,,,Active,False,False
+Gorehounds,Renegade/Chaos,Khorne,,,Active,False,False
+Goremongers,Renegade/Chaos,Khorne,,,,False,False
+Gorgons,Loyalist,Imperium,,,Active,False,False
 Grail Guard,,,,,,False,False
 Grand Order of Hermetic Blades,Renegade/Chaos,,Thousand Sons,Unknown,,False,False
 Graven Fists,Renegade/Chaos,Imperium,Unknown,Unknown,,False,False
