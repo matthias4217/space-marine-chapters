@@ -281,6 +281,7 @@ Doom Legion,Loyalist,Imperium,Ultramarines,,Active,False,False
 Doom Warriors,Loyalist,,,,,False,False
 Doomsayers,Loyalist,Imperium,,,Active,False,False
 Draconis,Loyalist,Imperium,,,,False,False
+Dragons Ardent,Loyalist,Imperium,Blood Angels,,Active,False,False
 Dragon Lords,Loyalist,Imperium,,,Active,False,False
 Dragon Warriors,Renegade/Chaos,,,,,False,False
 Dragonspears,Loyalist,Imperium,Salamanders,Ultima,Active,False,False
@@ -361,21 +362,21 @@ Gorehands,Renegade/Chaos,Khorne,,,Active,False,False
 Gorehounds,Renegade/Chaos,Khorne,,,Active,False,False
 Goremongers,Renegade/Chaos,Khorne,,,,False,False
 Gorgons,Loyalist,Imperium,,,Active,False,False
-Grail Guard,,,,,,False,False
-Grand Order of Hermetic Blades,Renegade/Chaos,,Thousand Sons,Unknown,,False,False
-Graven Fists,Renegade/Chaos,Imperium,Unknown,Unknown,,False,False
-Graven Spectres,Renegade/Chaos,Imperium,Unknown,Unknown,,False,False
-Grey Death,Renegade/Chaos,,Iron Drakes,Unknown,,False,False
-Grey Giants,Loyalist,Imperium,Unknown,Unknown,,False,False
-Grey Knights,Loyalist,,Emperor of Mankind,Unknown,,False,False
-Grey Slayers,Renegade/Chaos,,Unknown,Unknown,,False,False
-Grief Bringers,Loyalist,,Unknown,Unknown,,False,False
-Griffon Lords,Loyalist,,Unknown,Unknown,,False,False
-Griffons of Repentance,,,,,,False,False
-Guardians of Celeres,Loyalist,,Unknown,Unknown,,False,False
-Guardians of the Covenant,Loyalist,,Dark Angels,Unknown,,False,False
-Hakanor's Reavers,Renegade/Chaos,,Unknown,Unknown,,False,False
-Halo Brethren,Loyalist,Imperium,Unknown,Unknown,,False,False
+Grail Guard,Loyalist,Imperium,Blood Angels,,Active,False,False
+Grand Order of Hermetic Blades,Renegade/Chaos,Tzeentch,Thousand Sons,,Active,False,False
+Graven Fists,Renegade/Chaos,,,,,False,False
+Graven Spectres,Renegade/Chaos,,,,,False,False
+Grey Death,Renegade/Chaos,Nurgle,Iron Drakes,,Active,False,False
+Grey Giants,Loyalist,Imperium,,,Active,False,False
+Grey Knights,Loyalist,Imperium,,2,Active,False,False
+Grey Slayers,Renegade/Chaos,,,,Destroyed,False,False
+Grief Bringers,Loyalist,Imperium,,,,False,False
+Griffon Lords,Loyalist,Imperium,,,Active,False,False
+Griffons of Repentance,Loyalist,Imperium,,,Active,False,False
+Guardians of Celeres,Loyalist,Imperium,,,Active,False,False
+Guardians of the Covenant,Loyalist,Imperium,Dark Angels,,Active,False,False
+Hakanor's Reavers,Renegade/Chaos,,,,,False,False
+Halo Brethren,Loyalist,Imperium,,4,Active,False,False
 Halo Dragons,Loyalist,Imperium,Unknown,Unknown,,False,False
 Hammers of Dhrex,Loyalist,Imperium,Unknown,Unknown,,False,False
 Hammers of Dorn,Loyalist,,Imperial Fists,Unknown,,False,False
