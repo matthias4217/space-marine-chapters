@@ -28,6 +28,8 @@ One of those :
 
 From which chapter the Geneseed has been taken.
 This is not necessarily a first-founding chapter.
+Some chapters may have several parent chapters.
+Their names will be separated by ` & `.
 
 ## Founding
 
@@ -35,8 +37,8 @@ From which founding the chapter originates.
 Many Chaos warbands do not have such an attribute.
 This can be :
 * An integer, for the number of the founding
-* A date, for the date of founding (M36 for instance)
-* Ultima, for the [Ultima founding](https://wh40k.lexicanum.com/wiki/Founding#Ultima_Founding) 
+* A date, for the date of founding (M36 or 816.M34 for instance)
+* `Ultima`, for the [Ultima founding](https://wh40k.lexicanum.com/wiki/Founding#Ultima_Founding) 
 
 ## Status
 
