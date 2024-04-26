@@ -2,17 +2,19 @@ Name,Allegiance,Faction,Chapter of origin,Founding,Status,Legion,Homebrew
 1st Company (Black Legion),Renegade/Chaos,,Black Legion,,Active,False,False
 3rd Company (Avenging Sons),Renegade/Chaos,,Avenging Sons,,Active,False,False
 9th Company (Black Legion),Renegade/Chaos,,Black Legion,,Active,False,False
-12th Company (Emperor’s Children),Renegade/Chaos,Slaanesh,Emperor’s Children,,Active,False,False
+12th Company (Emperor’s Children),Renegade/Chaos,Slaanesh,Emperor's Children,,Active,False,False
 20th Alpharians,Renegade/Chaos,,Alpha Legion,,Active,False,False
 66th Armoured Company,Renegade/Chaos,Khorne,World Eaters,,Active,False,False
 Abrial's Claw,Renegade/Chaos,,Iron Warriors,,,False,False
 Absolvers,Loyalist,Imperium,,,Active,False,False
 Accipiters,Loyalist,Imperium,,,Active,False,False
+Adamantine Beasts,Renegade/Chaos,,Black Legion,,Active,False,False
 Adamantine Lions,Loyalist,Imperium,,,Active,False,False
 Adharon's Reavers,Renegade/Chaos,,Sons of Guilliman,,,False,False
 Adulators,Loyalist,Imperium,,,Active,False,False
 Alpha Legion,Renegade/Chaos,Chaos Undivided,,1,Active,True,False
 Altar Brethren,Renegade/Chaos,,,,Renamed,False,False
+Anathraxis Warhost,Renegade/Chaos,,Iron Warriors,,Active,False,False
 Andromedan Blades,Loyalist,Imperium,,,Active,False,False
 Angel Guard,Loyalist,Imperium,,,Active,False,False
 Angels Apocrypha,Renegade/Chaos,,,,,False,False
@@ -54,14 +56,18 @@ Angels of Wrath,Loyalist,Imperium,Dark Angels,,Active,False,False
 Angels of the Grail,Loyalist,Imperium,Blood Angels,,Active,False,False
 Angron's Chosen,Renegade/Chaos,Khorne,World Eaters,,,False,False
 Angron's Fury,Renegade/Chaos,Khorne,World Eaters,,Destroyed,False,False
+Annihilators,Renegade/Chaos,,,,Renamed,False,False
 Anointed,Renegade/Chaos,Khorne,World Eaters,,Destroyed,False,False
+Aphotic Blade,Renegade/Chaos,,Black Legion,,Active,False,False
 Apocalypse Company,Renegade/Chaos,,,,,False,False
 Apostles of Contagion,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
 Apostles of MinthRas,Renegade/Chaos,,,,,False,False
 Aquiloan Brotherhood,Loyalist,Imperium,Ultramarines,,Active,False,False
 Argent Hammers,Renegade/Chaos,Nurgle,,,Renamed,False,False
+Armoured Serpents,Renegade/Chaos,,Alpha Legion,,Active,False,False
 Ashen Blades,Renegade/Chaos,,,,Renamed,False,False
 Ashen Conquerors,Loyalist,Imperium,,,Active,False,False
+Ashen Dead,Renegade/Chaos,Tzeentch,Black Legion,,Active,False,False
 Ashen Reclaimers,Loyalist,Imperium,,,,False,False
 Astral Bears,Loyalist,Imperium,White Scars,Ultima,Active,False,False
 Astral Blades,Renegade/Chaos,,,,Destroyed,False,False
@@ -85,8 +91,11 @@ Aurora Talons,Loyalist,Imperium,,,,False,False
 Avengers,Loyalist,Imperium,,,,False,False
 Avenging Sons,Loyalist,Imperium,Ultramarines,19,Active,False,False
 Axes of the Emperor,Loyalist,Imperium,,,Active,False,False
+Axes of the Forge,Renegade/Chaos,Khorne,World Eaters,,Active,False,False
 Azure Hawks,Loyalist,Imperium,,,,False,False
+Ba'ar Zul's Cleavers,Renegade/Chaos,Khorne,World Eaters,,Active,False,False
 Baleful Eye,Renegade/Chaos,,Night Lords,,,False,False
+Barbican Lords,Renegade/Chaos,,Iron Warriors,,Active,False,False
 Beasts of Annihilation,Renegade/Chaos,,Annihilators,,Active,False,False
 Benedictors,Loyalist,Imperium,,,,False,False
 Berserkers of Kharadon,Renegade/Chaos,Khorne,,,Renamed,False,False
@@ -104,6 +113,7 @@ Black Inculpators,Loyalist,Imperium,,,,False,False
 Black Legion,Renegade/Chaos,Chaos Undivided,Sons of Horus,,Active,False,False
 Black Lions,Loyalist,Imperium,,,,False,False
 Black Pegasi,Loyalist,Imperium,,,Active,False,False
+Black Psalm,Renegade/Chaos,,Illustrians,M37,,False,False
 Black Ravens,Loyalist,Imperium,,,,False,False
 Black Skull,Renegade/Chaos,,,,,False,False
 Black Talons,Loyalist,Imperium,,,,False,False
@@ -112,13 +122,18 @@ Black Templars,Loyalist,Imperium,Imperial Fists,2,Active,False,False
 Black Vipers,Loyalist,Imperium,Salamanders,Ultima,Active,False,False
 Black Vultures,Loyalist,Imperium,,Ultima Founding,Active,False,False
 Black Wings,Loyalist,Imperium,,,,False,False
+Blacksouls,Renegade/Chaos,Chaos Undivided,,,Active,False,False
 Bladekeepers,Loyalist,Imperium,Dark Angels,,Active,False,False
-Blades Eternal,,,,,Destroyed,False,False
+Blades Eternal,Loyalist,Imperium,,,Destroyed,False,False
+Blades of Magnus,Renegade/Chaos,,Thousand Sons,,Active,False,False
 Blades of Rage,Renegade/Chaos,Khorne,,,Active,False,False
+Blades of Savasdus,Renegade/Chaos,,Night Lords,,Active,False,False
 Blades of Vengeance,Loyalist,Imperium,Dark Angels,Ultima,Active,False,False
 Blades of the Despoiler,Renegade/Chaos,Khorne,Black Legion,,Destroyed,False,False
+Blades Sinister,Renegade/Chaos,Tzeentch,Thousand Sons,,Active,False,False
 Blazoned Legion,Loyalist,Imperium,,,,False,False
 Bleak Brotherhood,Renegade/Chaos,,,,,False,False
+Bleak Claw,Renegade/Chaos,,Night Lords,,Active,False,False
 Bleeding Eye,Renegade/Chaos,Chaos Undivided,Night Lords,,Active,False,False
 Blood Angels,Loyalist,Imperium,,1,Active,True,False
 Blood Disciples,Renegade/Chaos,Khorne,Emperor's Wolves,M36,Active,False,False
@@ -209,7 +224,7 @@ Coruscators,Loyalist,Imperium,,,Active,False,False
 Coven of Nine,Renegade/Chaos,Tzeentch,,,Active,False,False
 Covenant of Fire,Loyalist,Imperium,Salamanders,Ultima,Active,False,False
 Cowled Wardens,Loyalist,Imperium,Dark Angels,,Active,False,False
-Creations of Bile,Renegade/Chaos,,Emperor’s Children,,Active,False,False
+Creations of Bile,Renegade/Chaos,,Emperor's Children,,Active,False,False
 Crimson Axes,Loyalist,Imperium,Executioners,,Destroyed,False,False
 Crimson Blades,Loyalist,Imperium,Blood Angels,,Active,False,False
 Crimson Castellans,Loyalist,Imperium,,,Active,False,False
@@ -233,6 +248,7 @@ Crimson Templars,Loyalist,Imperium,,,,False,False
 Cruor Blades,Loyalist,Imperium,Blood Angels,,Active,False,False
 Crusaders,Loyalist,Imperium,,,Active,False,False
 Crusaders of Dorn,Renegade/Chaos,,,,Renamed,False,False
+Crystal Harbingers,Renegade/Chaos,Tzeentch,Thousand Sons,,Active,False,False
 Crystal Wyverns,Renegade/Chaos,,Bronze Gorgons,M37,,False,False
 Cursed Company,Renegade/Chaos,,,,,False,False
 Damned Company of Lord Caustos,Renegade/Chaos,,,,,False,False
@@ -265,6 +281,7 @@ Deathdealers,Loyalist,Imperium,,,Active,False,False
 Deathwatch,Loyalist,Imperium,,M32,Active,False,False
 Defenders Obscurus,Loyalist,Imperium,Imperial Fists,,Active,False,False
 Desert Lions,Loyalist,Imperium,,,,False,False
+Desolate Brotherhood,Renegade/Chaos,,,,Renamed,False,False
 Desolators,Loyalist,Imperium,,,,False,False
 Destroyers,Loyalist,Imperium,White Scars,2,Active,False,False
 Dictators,Loyalist,Imperium,,,,False,False
@@ -430,7 +447,7 @@ Iron Crusaders,Loyalist,Imperium,,,Active,False,False
 Iron Drakes,Renegade/Chaos,,,,Renamed,False,False
 Iron Drakes (Salamanders),Loyalist,Imperium,Salamanders,Ultima,Active,False,False
 Iron Fists,Loyalist,Imperium,Iron Hands,,Active,False,False
-Iron Hands,Loyalist,Imperium,N/A,1,Active,True,False
+Iron Hands,Loyalist,Imperium,,1,Active,True,False
 Iron Hawks,Loyalist,Imperium,Ultramarines,,Active,False,False
 Iron Hearts,Loyalist,Imperium,,,,False,False
 Iron Hounds,Loyalist,Imperium,Ultramarines,,Active,False,False
@@ -491,7 +508,7 @@ Lords of Desolation,Renegade/Chaos,Chaos Undivided,,,Destroyed,False,False
 Lords of Pain,Renegade/Chaos,,,,Active,False,False
 Lords of Silence,Renegade/Chaos,Nurgle,,,Active,False,False
 Lords of Wrath,Loyalist,Imperium,,,,False,False
-Luna Wolves,Renegade,,,1,Renamed,True,False
+Luna Wolves,Renegade/Chaos,,,1,Renamed,True,False
 Magma Hounds,Renegade/Chaos,,Knights Excelsior,M37,Active,False,False
 Malefactors,Renegade/Chaos,,Sigilites,M37,Active,False,False
 Mantis Warriors,Loyalist,Imperium,Marauders,,Active,False,False
@@ -515,7 +532,6 @@ Minotaurs,Loyalist,Imperium,,21,Active,False,False
 Mortifactors,Loyalist,Imperium,Ultramarines,2,Active,False,False
 Mouldering Claw,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
 Murderghosts,Renegade/Chaos,Khorne,,,Active,False,False
-Nameless,Loyalist,Imperium,,,,False,False
 Necropolis Hawks,Loyalist,Imperium,Raven Guard,Ultima,Active,False,False
 Nemesis,Loyalist,Imperium,Ultramarines,2,Active,False,False
 Nemesors,Loyalist,Imperium,,Ultima,Active,False,False
@@ -589,7 +605,6 @@ Redeemers,Loyalist,Imperium,,,,False,False
 Redemptors,Loyalist,Imperium,,,,False,False
 Regents of Gheren,Loyalist,Imperium,,,Active,False,False
 Relictors,Renegade/Chaos,,Fire Claws,,Active,False,False
-Remnants,Loyalist,Imperium,Blood Angels,,,False,False
 Reparators,Loyalist,Imperium,,,,False,False
 Repentant Brotherhood,Loyalist,Imperium,Dark Angels,,Active,False,False
 Retractors,Loyalist,Imperium,,,,False,False
@@ -605,7 +620,7 @@ Rusted Claws,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
 Sable Brotherhood,Loyalist,Imperium,Blood Angels,,Active,False,False
 Sable Knights,Loyalist,Imperium,Blood Angels,,Active,False,False
 Sable Swords,Loyalist,Imperium,,,,False,False
-Salamanders,Loyalist,Imperium,N/A,1,Active,True,False
+Salamanders,Loyalist,Imperium,,1,Active,True,False
 Sanctors of Terra,Renegade/Chaos,,,,Renamed,False,False
 Sanguine Host,Loyalist,Imperium,Blood Angels,,Active,False,False
 Sanguine Sons,Renegade/Chaos,,,,,False,False
@@ -700,7 +715,7 @@ Steel Brethren,Renegade/Chaos,,Iron Warriors,,Active,False,False
 Steel Cobras,Renegade/Chaos,,,23,,False,False
 Steel Confessors,Loyalist,Imperium,,,,False,False
 Steel Heart,Renegade/Chaos,,,,Destroyed,False,False
-Stewards of the Sanctum,Imperium,Loyalist,Dark Angels,,Active,False,False
+Stewards of the Sanctum,Loyalist,Imperium,Dark Angels,,Active,False,False
 Stone Gauntlets,Loyalist,Imperium,,,,False,False
 Stone Hearts,Loyalist,Imperium,,,,False,False
 Storm Callers,Loyalist,Imperium,,,,False,False
@@ -725,112 +740,117 @@ Swords of Khargoth,Renegade/Chaos,,Swords of Praesium,,,False,False
 Swords of Praesium,Loyalist,Imperium,,,,False,False
 Swords of the Emperor,Loyalist,Imperium,,,,False,False
 Swords Sanguine,Loyalist,Imperium,,,,False,False
-Tainted Lung,Renegade/Chaos,,Death Guard,First Founding,,False,False
-Tainted Sons,Renegade/Chaos,,Death Guard,First Founding,,False,False
-Talons of Anathrax,Renegade/Chaos,,Argent Hammers,Unknown,,False,False
-Tarantulas,Loyalist,,Unknown,Unknown,,False,False
-Tauran,,,,,,False,False
-Taurans,Loyalist,Imperium,Unknown,Unknown,,False,False
-Tempest Guard,Loyalist,Imperium,Unknown,Unknown,,False,False
-Tempest Legion,Renegade/Chaos,,Unknown,Unknown,,False,False
-Tempestors,Loyalist,,Unknown,Unknown,,False,False
-Templars of Blood,Loyalist,Imperium,Blood Angels,Unknown,,False,False
-Templars of the Covenant,Loyalist,Imperium,Unknown,Unknown,,False,False
-Ten Thousand Eyes,Renegade/Chaos,,Unknown,Unknown,,False,False
-Tenebrae,Renegade/Chaos,,Unknown,Unknown,,False,False
-Terror Lords,Renegade/Chaos,,Unknown,Unknown,,False,False
-Terror Tigers,Loyalist,,Unknown,Unknown,,False,False
-The Black Psalm,Renegade/Chaos,,Illustrians,Unknown,,False,False
-The Blades of Magnus,Renegade/Chaos,,Thousand Sons,Unknown,,False,False
-The Blighted Claw,Renegade/Chaos,,Sanctors of Terra,Unknown,,False,False
-The Broken,Renegade/Chaos,,Viridian Consuls,Second Founding,,False,False
-The Chosen of Heiros,Renegade/Chaos,,unknown,Unknown,,False,False
-The Cleaved,Renegade/Chaos,,Unknown,Unknown,,False,False
-The Crystal Harbingers,Renegade/Chaos,,Thousand Sons,Unknown,,False,False
-The Damned Company of Lord Caustos,,,,,,False,False
-The Faithless,Renegade/Chaos,,Alpha Legion,Unknown,,False,False
-The Flawless Host,Renegade/Chaos,,Shining Blades,Unknown,,False,False
-The Flylords,Renegade/Chaos,,Vengeance Chapter,Unknown,,False,False
-The Fractured,Renegade/Chaos,,Justicars,Unknown,,False,False
-The Harvest,Renegade/Chaos,,Unknown,Unknown,,False,False
-The Hedonistarii,Renegade/Chaos,,Unknown,Unknown,,False,False
-The Nameless,Loyalist,Imperium,Unknown,Unknown,,False,False
-The Oath-Broken,Renegade/Chaos,,Black Legion,Unknown,,False,False
-The Prism of Fate,Renegade/Chaos,,Thousand Sons,Unknown,,False,False
-The Purge,Renegade/Chaos,,Unknown,Unknown,,False,False
-The Pyre,Renegade/Chaos,,Unknown,Unknown,,False,False
-The Reborn,Renegade/Chaos,,Unknown,Unknown,,False,False
-The Reflected Ones,Renegade/Chaos,,Thousand Sons,Unknown,,False,False
-The Remnants,Loyalist,Imperium,Blood Angels,Unknown,,False,False
-The Revelation of Gore,Renegade/Chaos,,Tempest Legion,Unknown,,False,False
-The Sanctified,Renegade/Chaos,,Word Bearers,Unknown,,False,False
-The Scourged,Renegade/Chaos,,Seekers of Truth,Unknown,,False,False
-The Sectai Prosperine,Renegade/Chaos,,Thousand Sons,Unknown,,False,False
-The Shadowed Ones,Renegade/Chaos,,Alpha Legion,Unknown,,False,False
-The Shriven,Renegade/Chaos,,Brazen Drakes,Unknown,,False,False
-The Tainted,Renegade/Chaos,,Death Guard,Unknown,,False,False
-The Tizcan Host,Renegade/Chaos,,Thousand Sons,Unknown,,False,False
-The Tormented,Renegade/Chaos,,Black Legion,Unknown,,False,False
-The Unhallowed,Renegade/Chaos,,Invictors,Unknown,,False,False
-The Unnamed,Loyalist,Imperium,Dark Angels,Ultima Founding,,False,False
-The Wrath,Renegade/Chaos,,Unknown,Unknown,,False,False
-Thousand Sons,,,,,,True,False
-Thralls of Magnus,Renegade/Chaos,,Thousand Sons,Unknown,,False,False
-Thunder Barons,Renegade/Chaos,,Unknown,Unknown,,False,False
-Tiger Claws,Renegade/Chaos,,Astral Claws,Unknown,,False,False
-Tigers Argent,Loyalist,,Unknown,Unknown,,False,False
-Tome Keepers,Loyalist,Imperium,Ultramarines,4th Founding,,False,False
-Tormented,Loyalist,Imperium,Unknown,Unknown,,False,False
-Tormentors,Loyalist,,Unknown,Unknown,,False,False
-Tributors,Loyalist,,Unknown,Unknown,,False,False
-True Sons,Renegade/Chaos,,Black Legion,Unknown,,False,False
-Twisted Blades,Renegade/Chaos,,Graven Fists,Unknown,,False,False
-Ultramarines,Loyalist,,N/A,First Founding,,True,False
-Umbral Knights,Loyalist,Imperium,Unknown,Ultima Founding,,False,False
-Umbral Titans,Loyalist,Imperium,Unknown,Unknown,,False,False
-Valedictors,Loyalist,,Unknown,Unknown,,False,False
-Valiant Blades,Loyalist,Imperium,Unknown,Ultima Founding,,False,False
-Vectors of Pox,Renegade/Chaos,,Doom Legion,Unknown,,False,False
-Venerators,Loyalist,,Unknown,Unknown,,False,False
-Venerators of Osiron,Loyalist,,Unknown,Unknown,,False,False
-Vengeance Chapter,Renegade/Chaos,,Unknown,Unknown,,False,False
-Venom Thorns,Renegade/Chaos,,Imperial Fists,Unknown,,False,False
-Verydian Hawks,Loyalist,Imperium,Unknown,Unknown,,False,False
-Victors,Loyalist,,Unknown,Unknown,,False,False
-Vindicators,Loyalist,,Ultramarines,Unknown,,False,False
-Violators,Renegade/Chaos,,Unknown,Unknown,,False,False
-Viper Legion,Loyalist,Imperium,Unknown,Unknown,,False,False
-Viridian Consuls,Renegade/Chaos,,Ultramarines,Second Founding,,False,False
-Void Axes,Loyalist,Imperium,Unknown,Unknown,,False,False
-Void Daggers,Loyalist,Imperium,Unknown,Unknown,,False,False
-Void Tridents,Loyalist,Imperium,Ultramarines,Ultima Founding,,False,False
-Voidrippers,Renegade/Chaos,,Stormwatchers,Unknown,,False,False
-Vorpal Swords,Loyalist,Imperium,Unknown,Unknown,,False,False
-War Bearers,Loyalist,,Unknown,Unknown,,False,False
-Warband of Sektoth,Renegade/Chaos,,Thousand Sons,Unknown,,False,False
-Wardens of the Philae,Loyalist,Imperium,Unknown,Unknown,,False,False
-Warhawks,Loyalist,,Unknown,Unknown,,False,False
-Warmongers,Loyalist,,Unknown,Unknown,,False,False
-Warp Gheists,Renegade/Chaos,,Thousand Sons,Unknown,,False,False
-Warp Ghosts,Renegade/Chaos,,Unknown,Unknown,,False,False
-Warrior Adepts,Loyalist,,Unknown,Unknown,,False,False
-Warriors Tempest,Loyalist,,Unknown,Unknown,,False,False
-Warriors of Aggannor,Renegade/Chaos,,Night Lords,Unknown,,False,False
-Warriors of Mayhem,Renegade/Chaos,,Unknown,Unknown,,False,False
-Watchguards,Loyalist,Imperium,Unknown,Unknown,,False,False
-Weeping Legion,Renegade/Chaos,,Death Guard,First Founding,,False,False
-White Consuls,Loyalist,,Ultramarines,Second Founding,,False,False
-White Minotaurs,Loyalist,,Unknown,Unknown,,False,False
-White Panthers,Loyalist,,Ultramarines,26th Founding,,False,False
-White Scars,Loyalist,,N/A,First Founding,,True,False
-White Sentinels,Loyalist,Imperium,unknown,unknown,,False,False
-White Templars,Loyalist,,Imperial Fists,Unknown,,False,False
-Widowmakers,Loyalist,Imperium,Unknown,Unknown,,False,False
-Wolf Brothers,Renegade/Chaos,,Space Wolves,Second Founding,,False,False
-Wolfspear,Loyalist,Imperium,Space Wolves,Ultima Founding,,False,False
-Wolves of Horus,Renegade/Chaos,,Black Legion,Unknown,,False,False
-Word Bearers,,,,,,True,False
-World Eaters,,,,,,True,False
-Wrathful Dead,Renegade/Chaos,,World Eaters,Unknown,,False,False
-Wrathhost,,,,,,False,False
-Yellow Jackets,Loyalist,Imperium,Unknown,Unknown Founding,,False,False
+Tainted Lung,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
+Tainted Sons,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
+Talons of Anathrax,Renegade/Chaos,Nurgle,Argent Hammers,M37,,False,False
+Tarantulas,Loyalist,Imperium,,,,False,False
+Tauran,Loyalist,Imperium,,,Active,False,False
+Tempest Guard,Loyalist,Imperium,,,Active,False,False
+Tempest Legion,Renegade/Chaos,,,,Renamed,False,False
+Tempestors,Loyalist,,,,,False,False
+Templars of Blood,Loyalist,Imperium,Blood Angels,,,False,False
+Templars of the Covenant,Loyalist,Imperium,,,Active,False,False
+Ten Thousand Eyes,Renegade/Chaos,,Dark Angels,,,False,False
+Tenebrae,Renegade/Chaos,,,,Active,False,False
+Terror Lords,Renegade/Chaos,,,,,False,False
+Terror Tigers,Loyalist,Imperium,,,,False,False
+The Black Psalm,Renegade/Chaos,,Illustrians,M37,,False,False
+The Blessed,Renegade/Chaos,Chaos Undivided,Word Bearers,,Active,False,False
+The Blighted Claw,Renegade/Chaos,Nurgle,Sanctors of Terra,M37,,False,False
+The Broken,Renegade/Chaos,,Viridian Consuls,,,False,False
+The Chosen of Heiros,Renegade/Chaos,,Black Legion,,Active,False,False
+The Cleaved,Renegade/Chaos,Nurgle,,,Active,False,False
+The Damned Company of Lord Caustos,Renegade/Chaos,,,,,False,False
+The Faithless,Renegade/Chaos,Chaos Undivided,Alpha Legion,,Destroyed,False,False
+The Flawless Host,Renegade/Chaos,Slaanesh,Shining Blades,M34,Active,False,False
+The Flylords,Renegade/Chaos,Nurgle,Vengeance Chapter,M37,,False,False
+The Fractured,Renegade/Chaos,,Justicars,M37,,False,False
+The Harvest,Renegade/Chaos,Khorne,,,Active,False,False
+The Hedonistarii,Renegade/Chaos,Slaanesh,,,Active,False,False
+The Nameless,Loyalist,Imperium,,,,False,False
+The Oath-Broken,Renegade/Chaos,Chaos Undivided,Black Legion,,,False,False
+Prism of Fate,Renegade/Chaos,Tzeentch,Thousand Sons,,Active,False,False
+The Purge,Renegade/Chaos,Nurgle,,M36,Active,False,False
+The Pyre,Renegade/Chaos,,,,,False,False
+The Reborn,Renegade/Chaos,,,,,False,False
+Reflected Ones,Renegade/Chaos,Tzeentch,Thousand Sons,,Active,False,False
+The Remnants,Loyalist,Imperium,Blood Angels,,,False,False
+The Revelation of Gore,Renegade/Chaos,,Tempest Legion,M37,,False,False
+The Sanctified,Renegade/Chaos,Khorne,Word Bearers,,Active,False,False
+The Scourged,Renegade/Chaos,Tzeentch,Seekers of Truth,,Active,False,False
+The Sectai Prosperine,Renegade/Chaos,Tzeentch,Thousand Sons,,Active,False,False
+Shadowed Ones,Renegade/Chaos,Chaos Undivided,Alpha Legion,,Destroyed,False,False
+Shriven,Renegade/Chaos,,Brazen Drakes,,Destroyed,False,False
+The Tainted,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
+Tizcan Host,Renegade/Chaos,Tzeentch,Thousand Sons,,Active,False,False
+The Tormented,Renegade/Chaos,,Black Legion,,,False,False
+The Unhallowed,Renegade/Chaos,,Invictors,M37,,False,False
+The Unnamed,Loyalist,Imperium,Dark Angels,Ultima,Active,False,False
+The Wrath,Renegade/Chaos,Khorne,,,Active,False,False
+Thousand Sons,Renegade/Chaos,Tzeentch,,1,Active,True,False
+Thralls of Magnus,Renegade/Chaos,Tzeentch,Thousand Sons,,Active,False,False
+Thunder Barons,Renegade/Chaos,,,,,False,False
+Tiger Claws,Renegade/Chaos,,Astral Claws,,Destroyed,False,False
+Tigers Argent,Loyalist,,,,Active,False,False
+Tome Keepers,Loyalist,Imperium,Ultramarines,4,Active,False,False
+Tormented,Loyalist,Imperium,,,,False,False
+Tormentors,Loyalist,Imperium,,,,False,False
+Tributors,Loyalist,Imperium,,,,False,False
+Tridents of the Atox,Loyalist,Imperium,,,Destroyed,False,False
+True Sons,Renegade/Chaos,,Sons of Horus,,,False,False
+Twilight Magisters,Loyalist,Imperium,,,Active,False,False
+Twilight Swords,Loyalist,Imperium,,,,False,False
+Twisted Blades,Renegade/Chaos,,Graven Fists,M37,,False,False
+Ultramarines,Loyalist,Imperium,,1,Active,True,False
+Umbral Knights,Loyalist,Imperium,,Ultima,Active,False,False
+Valedictors,Loyalist,Imperium,,,Active,False,False
+Valiant Blades,Loyalist,Imperium,,Ultima,Active,False,False
+Vectors of Pox,Renegade/Chaos,Nurgle,Doom Legion,M37,,False,False
+Venerators,Loyalist,Imperium,,,Destroyed,False,False
+Venerators of Osiron,Loyalist,Imperium,,,Active,False,False
+Vengeance Chapter,Renegade/Chaos,,,,Renamed,False,False
+Venom Thorns,Renegade/Chaos,,Imperial Fists,,,False,False
+Verydian Hawks,Loyalist,Imperium,,,Active,False,False
+Victors,Loyalist,,,,Active,False,False
+Vindicators,Loyalist,,Ultramarines,,Destroyed,False,False
+Violators,Renegade/Chaos,Slaanesh,,,Active,False,False
+Viper Legion,Loyalist,Imperium,,,,False,False
+Vipers Penitent,Loyalist,Imperium,,,Active,False,False
+Viridian Consuls,Renegade/Chaos,,,,Renamed,False,False
+Void Axes,Loyalist,Imperium,,,Active,False,False
+Void Bringers,Loyalist,Imperium,,,Active,False,False
+Void Daggers,Loyalist,Imperium,,,Active,False,False
+Void Sabres,Loyalist,Imperium,Raven Guard,Ultima,Active,False,False
+Void Talons,Loyalist,Imperium,,,,False,False
+Void Tridents,Loyalist,Imperium,Ultramarines,Ultima,Active,False,False
+Voidrippers,Renegade/Chaos,Khorne,Stormwatchers,,Active,False,False
+Vorpal Swords,Loyalist,Imperium,,,Active,False,False
+War Bearers,Loyalist,Imperium,,,Active,False,False
+War Lions,Loyalist,Imperium,,,,False,False
+Warband of Sektoth,Renegade/Chaos,Tzeentch,Thousand Sons,,,False,False
+Wardens of the Philae,Loyalist,Imperium,,,Active,False,False
+Warhawks,Loyalist,Imperium,,,Destroyed,False,False
+Warmongers,Loyalist,Imperium,,,Active,False,False
+Warp Gheists,Renegade/Chaos,Tzeentch,Thousand Sons,,Active,False,False
+Warp Ghosts,Renegade/Chaos,,,,Active,False,False
+Warrior Adepts,Loyalist,Imperium,,,,False,False
+Warriors Tempest,Loyalist,Imperium,,,Active,False,False
+Warriors of Aggannor,Renegade/Chaos,,Night Lords & Word Bearers,M36,,False,False
+Warriors of Mayhem,Renegade/Chaos,,,,,False,False
+Watchguards,Loyalist,Imperium,,,Active,False,False
+Weeping Legion,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
+White Consuls,Loyalist,Imperium,Ultramarines,2,Active,False,False
+White Minotaurs,Loyalist,Imperium,,,,False,False
+White Novas,Loyalist,Imperium,,,,False,False
+White Panthers,Loyalist,Imperium,Ultramarines,,Active,False,False
+White Scars,Loyalist,Imperium,,1,Active,True,False
+White Sentinels,Loyalist,Imperium,,,Active,False,False
+White Templars,Loyalist,Imperium,,,Active,False,False
+Widowmakers,Loyalist,Imperium,,,,False,False
+Wolf Brothers,Loyalist,Imperium,Space Wolves,2,Destroyed,False,False
+Wolfspear,Loyalist,Imperium,Space Wolves,Ultima,Active,False,False
+Wolves of Horus,Renegade/Chaos,,Sons of Horus,,,False,False
+Word Bearers,Renegade/Chaos,Chaos Undivided,,1,Active,True,False
+World Eaters,Renegade/Chaos,Khorne,,1,Active,True,False
+Wrathful Dead,Renegade/Chaos,Khorne,World Eaters,,Destroyed,False,False
+Wrathhost,Loyalist,Imperium,White Scars,,Active,False,False
