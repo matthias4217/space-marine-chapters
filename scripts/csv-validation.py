@@ -16,6 +16,7 @@ class Faction(StrEnum):
     NURGLE = 'Nurgle'
     SLAANESH = 'Slaanesh'
     TZEENTCH = 'Tzeentch'
+    RENEGADE = 'Renegade'
 
 class Status(StrEnum):
     EMPTY = ''
@@ -51,7 +52,7 @@ def validate_chapter(chapter: dict):
     chapters_origin = chapter["Chapter of origin"].split(" & ")
     for co in chapters_origin:
         if co != '' and not co in [c["Name"] for c in chapters]:
-            print(f"{chapter['Name']} has incorrect parent ({co}.")
+            print(f"{chapter['Name']} has incorrect parent ({co}).")
 
 chapters = get_chapters()
 for chapter in chapters:
