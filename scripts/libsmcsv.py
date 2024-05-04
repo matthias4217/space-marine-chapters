@@ -52,8 +52,19 @@ class SpaceMarineChaptersDataset:
                 for chapter_bis in self.chapters:
                     if chapter_bis['Name'] == chapter['Name'][4:]:
                         print(f"Warning, both {chapter_bis['Name']} and {chapter['Name']} exist.")
-        
-        # TODO check *The*
+
+    def write_chapters(self, filename: str):
+        """
+        :param filename: Name of the file in which to write the list of chapters
+        :type filename: str
+        """
+        with open(filename, 'w') as g:
+            writer = csv.DictWriter(
+                g,
+                fieldnames=("Name", "Allegiance", "Faction", "Chapter of origin", "Founding", "Status", "Legion", "Homebrew")
+                )
+            writer.writeheader()
+            writer.writerows(self.chapters)
 
     @classmethod
     def filter_chapter(cls, chapters: list[dict], criteria: dict) -> list[dict]:
