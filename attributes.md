@@ -44,8 +44,9 @@ This can be :
 
 Chapter status can be :
 * Active
-* Renamed
 * Destroyed
+* Fusioned
+* Renamed
 
 ## Legion
 
