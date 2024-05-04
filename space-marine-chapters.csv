@@ -216,8 +216,8 @@ Castellans of the Rift,Loyalist,Imperium,Ultramarines,Ultima,Active,False,False
 Celebrants,Loyalist,Imperium,,M36,Active,False,False
 Celestial Guard,Loyalist,Imperium,,,Active,False,False
 Celestial Lions,Loyalist,Imperium,Imperial Fists,M38,Active,False,False
-Celestial Swords,Loyalist,Imperium,,,Destroyed,False,False
-Celestial Swords,Loyalist,Imperium,,,Destroyed,False,False
+Celestial Swords (First chapter),Loyalist,Imperium,,,Destroyed,False,False
+Celestial Swords (Second chapter),Loyalist,Imperium,,,Destroyed,False,False
 Celestials,Loyalist,Imperium,Imperial Fists,,,False,False
 Cerulean Guard,Loyalist,Imperium,,,,False,False
 Champions of Thanatos,Loyalist,Imperium,,,Active,False,False
@@ -315,7 +315,7 @@ Death Spectres,Loyalist,Imperium,Raven Guard,,Active,False,False
 Death Strike,Loyalist,Imperium,Imperial Fists,,Active,False,False
 Death Wardens,Loyalist,Imperium,Blood Angels,3,Active,False,False
 Deathdealers,Loyalist,Imperium,,,Active,False,False
-Deathongers,Renegade/Chaos,,Brothers of the Anvil,M37,Active,False,False
+Deathmongers,Renegade/Chaos,,Brothers of the Anvil,M37,Active,False,False
 Deathwatch,Loyalist,Imperium,,M32,Active,False,False
 Defenders Obscurus,Loyalist,Imperium,Imperial Fists,,Active,False,False
 Desert Lions,Loyalist,Imperium,,,,False,False
@@ -571,8 +571,8 @@ Knights Obstinate,Loyalist,Imperium,,,Active,False,False
 Knights Sanguine,Loyalist,Imperium,Blood Angels,,Destroyed,False,False
 Knights Unyielding,Loyalist,Imperium,,,,False,False
 Knights of Abhorrence,Loyalist,Imperium,Dark Angels,,Active,False,False
-Knights of Blood,Renegade/Chaos,,,,,False,False
-Knights of Blood,Renegade/Chaos,Imperium,Blood Angels,,Destroyed,False,False
+Knights of Blood (Warband),Renegade/Chaos,,,,,False,False
+Knights of Blood (Chapter),Renegade/Chaos,Imperium,Blood Angels,,Destroyed,False,False
 Knights of Byzantium,Loyalist,Imperium,Iron Hands,Ultima,Active,False,False
 Knights of Doom,Loyalist,Imperium,,,Active,False,False
 Knights of Dorn,Loyalist,Imperium,Imperial Fists,,,False,False
@@ -695,7 +695,6 @@ Prandium Consul,Loyalist,Imperium,,,Active,False,False
 Predator Legion,Renegade/Chaos,,Serpents of Light,M37,,False,False
 Prime Absolvers,Loyalist,Imperium,Dark Angels,Ultima,Active,False,False
 Prism of Fate,Renegade/Chaos,Tzeentch,Thousand Sons,,Active,False,False
-Prism of Fate,Renegade/Chaos,Tzeentch,Thousand Sons,,Active,False,False
 Prodigal Sons,Renegade/Chaos,Tzeentch,Thousand Sons,,,False,False
 Prophets of Mercury,Loyalist,Imperium,,,Destroyed,False,False
 Prophets of Plague,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
@@ -809,7 +808,6 @@ Shadow Haunters,Loyalist,Imperium,Raven Guard,,Active,False,False
 Shadow Hawks,Loyalist,Imperium,,,Active,False,False
 Shadow Wolves,Loyalist,Imperium,,,Active,False,False
 Shadowed Ones,Renegade/Chaos,Chaos Undivided,Alpha Legion,M31,Destroyed,False,False
-Shadowed Ones,Renegade/Chaos,Chaos Undivided,Alpha Legion,,Destroyed,False,False
 Shadowkin of Varadkar,Renegade/Chaos,,Black Legion,M41,Active,False,False
 Shards of Enmity,Renegade/Chaos,,,,Active,False,False
 Shatter Corps,Renegade/Chaos,Chaos Undivided,Iron Warriors,,Active,False,False
@@ -894,8 +892,8 @@ Sons of the Kraken,Loyalist,Imperium,,,,False,False
 Sons of the Maggot,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
 Sons of the Phoenix,Loyalist,Imperium,Imperial Fists,Ultima,Active,False,False
 Sons of the Raven,Loyalist,Imperium,,,Destroyed,False,False
-Soul Drinkers,Renegade/Chaos,,Imperial Fists,2,Destroyed,False,False
-Soul Drinkers,Loyalist,Imperium,,Ultima,Active,False,False
+Soul Drinkers (Second Founding Chapter),Renegade/Chaos,,Imperial Fists,2,Destroyed,False,False
+Soul Drinkers (Ultima Founding Chapter),Loyalist,Imperium,,Ultima,Active,False,False
 Soulfangs,Renegade/Chaos,,Alpha Legion,,Active,False,False
 Space Wolves,Loyalist,Imperium,,1,Active,True,False
 Spears of Olympus,Renegade/Chaos,Khorne,,,Renamed,False,False
@@ -994,7 +992,6 @@ Thunder Barons,Renegade/Chaos,,,,,False,False
 Tide of Filth,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
 Tiger Claws,Renegade/Chaos,,Astral Claws,,Destroyed,False,False
 Tigers Argent,Loyalist,,,,Active,False,False
-Tizcan Host,Renegade/Chaos,Tzeentch,Thousand Sons,,Active,False,False
 Tizcan Host,Renegade/Chaos,Tzeentch,Thousand Sons,,Active,False,False
 Tollguard,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
 Tome Keepers,Loyalist,Imperium,Ultramarines,4,Active,False,False

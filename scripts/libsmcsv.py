@@ -42,7 +42,13 @@ class SpaceMarineChaptersDataset:
             print(f"{chapter['Name']} has incorrect status ({chapter['Status']}).")
     
     def validate(self):
-        for chapter in self.chapters:
+        """
+        Ensure that the chapter list is correct.
+
+        TODO : check for duplicates
+        """
+        for i in range(len(self.chapters)):
+            chapter = self.chapters[i]
             self.validate_chapter(chapter)
             chapters_origin = chapter["Chapter of origin"].split(" & ")
             for co in chapters_origin:
@@ -52,6 +58,9 @@ class SpaceMarineChaptersDataset:
                 for chapter_bis in self.chapters:
                     if chapter_bis['Name'] == chapter['Name'][4:]:
                         print(f"Warning, both {chapter_bis['Name']} and {chapter['Name']} exist.")
+            for j in range(i+1,len(self.chapters)):
+                if chapter['Name'] == self.chapters[j]['Name']:
+                    print(f"Duplicate chapter {chapter['Name']}.")
 
     def write_chapters(self, filename: str):
         """
