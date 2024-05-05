@@ -12,6 +12,66 @@ class SpaceMarineChaptersDataset:
         for file in files:
             self.chapters += self.import_chapters_from_file(file)
 
+
+    def get_chapter(self, chapter_name: str) -> dict|None:
+        """
+        :param chapter_name: Name of the chapter to be extracted.
+        :type chapter_name: str
+        :return: The chapter with matching name. If none are found, None.
+        """
+        try:
+            return next(filter(lambda x: x.get('Name') == chapter_name, self.chapters))
+        except StopIteration:
+            return None
+    
+    def get_descendants(self, chapter_name: str, recursive=True, include_self=True) -> list[list[dict]]:
+        """
+        """
+        result = []
+        next_gen = [self.get_chapter(chapter_name)]
+        while next_gen != []:
+            current_gen = next_gen 
+            next_gen = []
+            for gen_descendant in current_gen:
+                # find all the direct descendants
+                for chapter in self.chapters:
+                    parents = chapter["Chapter of origin"].split(" & ")
+                    for parent in parents:
+                        #print(current_gen)
+                        #print(f"Current: {chapter['Name']} - Parent: {parent}")
+                        if parent in [c['Name'] for c in current_gen] and chapter not in next_gen:
+                            next_gen.append(chapter)
+            result.append(current_gen)
+        return result
+
+        for chapter in self.chapters:
+            if include_self and chapter["Name"] == chapter_name:
+                result.append(chapter)
+                continue
+            parents = chapter["Chapter of origin"].split(" & ")
+            for parent_name in parents:
+                if parent_name == chapter_name:
+                    result.append(chapter)
+                elif recursive:
+                    lineage = self.get_lineage(parent_name)
+                    print(lineage)
+                    for lc in lineage:
+                        if lc not in result:
+                            result.append(lc)
+        return result
+
+    def get_lineage(self, chapter_name: str) -> list[dict]:
+        """
+        """
+        lineage = []
+        cur_chapter = self.get_chapter(chapter_name)
+        lineage.append(cur_chapter)
+        while cur_chapter['Chapter of origin'] != '':
+            #print(cur_chapter)
+            cur_chapter = self.get_chapter(cur_chapter['Chapter of origin'])
+            lineage.append(cur_chapter)
+        return lineage
+
     def import_chapters_from_file(self, file: str):
         chapters = []
         with open(file, 'r') as f:
@@ -78,16 +138,25 @@ class SpaceMarineChaptersDataset:
     @classmethod
     def filter_chapter(cls, chapters: list[dict], criteria: dict) -> list[dict]:
         """
-        Criteria : list of dict ?
-        """
-        pass
+        This will return all the chapters matching all the conditions in criteria.
 
-    @classmethod
-    def get_chapter(cls, chapter_name: str) -> dict:
+        :param chapters: List of chapters
+        :type chapters: list[dict]
+        :param criteria: Criteria used
+        :type criteria: list[dict]
+        :return: List of chapters matching the criteria
+        :rtype: list[dict]
         """
-        """
-        pass
-
+        res = []
+        for chapter in chapters:
+            criterium_met = True
+            for key in criteria.keys():
+                if chapter[key] != criteria[key]:
+                    criterium_met = False
+                    break
+            if criterium_met:
+                res.append(chapter)
+        return res
 
 class Allegiance(StrEnum):
     LOYALIST = 'Loyalist'

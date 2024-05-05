@@ -1,23 +1,10 @@
 from random import choice
-import csv
+from libsmcsv import SpaceMarineChaptersDataset
 
-SOURCE_CSVS = ["space-marine-chapters.csv", "space-marine-chapters-homebrew.csv"]
-
-def get_chapters():
-    chapters = []
-    for file in SOURCE_CSVS:
-        with open(file, 'r') as f:
-            reader = csv.DictReader(f)
-            for row in reader:
-                chapters.append({
-                    "Name": row["Name"],
-                    "Allegiance": row["Allegiance"],
-                    "Chapter of origin": row["Chapter of origin"],
-                    "Founding": row["Founding"],
-                    "Legion": row["Legion"] == "True",
-                    "Homebrew": row["Homebrew"] == "True",
-                    })
-    return chapters
+FILES_OFFICIAL = ["space-marine-chapters.csv", "space-marine-chapters-homebrew-example.csv"]
+FILES_HOMEBREW = ["space-marine-chapters.csv", "space-marine-chapters-homebrew.csv"]
+files = FILES_OFFICIAL
+chapters_dataset = SpaceMarineChaptersDataset(files)
 
 def filter_chapters(chapters: list[dict], filter: dict):
     """
@@ -37,7 +24,16 @@ def filter_chapters(chapters: list[dict], filter: dict):
 def get_random_chapter(chapters: list[dict]):
     return choice(chapters)
 
-chapters = get_chapters()
-res = filter_chapters(chapters, {"Legion": True})
+#res = filter_chapters(chapters, {"Legion": True})
 #print(get_random_chapter(chapters))
-print(get_random_chapter(filter_chapters(chapters, {"Allegiance": "Loyalist"})))
+#print(get_random_chapter(filter_chapters(chapters, {"Allegiance": "Loyalist"})))
+
+print(
+    SpaceMarineChaptersDataset.filter_chapter(
+        chapters_dataset.chapters,
+        {
+            "Founding": "Ultima",
+            "Chapter of origin": "Iron Hands"
+            }
+        )
+    )
