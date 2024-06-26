@@ -552,6 +552,7 @@ Iron Shield,Loyalist,Imperium,,,,False,False
 Iron Skulls,Loyalist,Imperium,,,,False,False
 Iron Snakes,Loyalist,Imperium,Ultramarines,2,Active,False,False
 Iron Talons,Loyalist,Imperium,White Scars,,Active,False,False
+Iron Templars,Loyalist,Imperium,,,,False,False
 Iron Warriors,Renegade/Chaos,Chaos Undivided,,1,Active,True,False
 Iron Wolves,Loyalist,Imperium,,,,False,False
 Ironhydras,Renegade/Chaos,,Alpha Legion,,Active,False,False
@@ -847,7 +848,7 @@ Skull-blessed,Renegade/Chaos,Khorne,World Eaters,,Destroyed,False,False
 Skull-eaters,Renegade/Chaos,Khorne,Black Legion,,Active,False,False
 Skull-scythes,Renegade/Chaos,Khorne,,,Destroyed,False,False
 Skullhunt,Renegade/Chaos,Khorne,World Eaters,,Active,False,False
-Skullsworn,Renegade/Chaos,Khorne,,,Active,False,False
+Skullsworn,Renegade/Chaos,Khorne,,M33,Active,False,False
 Skulltakers,Renegade/Chaos,Khorne,Berserkers of Kharadon,,Active,False,False
 Sky Sentinels,Loyalist,Imperium,,,Destroyed,False,False
 Skyrar's Dark Wolves,Renegade/Chaos,,Space Wolves & Sons of Horus,M31,,False,False
