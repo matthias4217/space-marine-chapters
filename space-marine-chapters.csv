@@ -356,6 +356,7 @@ Eight Sons,Renegade/Chaos,Khorne,World Eaters,,Active,False,False
 Eight Stolen Truths,Renegade/Chaos,,Alpha Legion,,Active,False,False
 Eightscarred,Renegade/Chaos,Khorne,,,Active,False,False
 Emissaries of the Wasting Death,Renegade/Chaos,Nurgle,,,Active,False,False
+Emperor's Blades,Loyalist,Imperium,,,Active,False,False
 Emperor's Children,Renegade/Chaos,Slaanesh,,1,Active,True,False
 Emperor's Claws,Loyalist,Imperium,,,Active,False,False
 Emperor's Hands,Loyalist,Imperium,,,,False,False
@@ -414,6 +415,7 @@ Fists of Olchis,Renegade/Chaos,,,,,False,False
 Fists of Wrath,Loyalist,Imperium,Imperial Fists,,,False,False
 Flame Eagles,Loyalist,Imperium,Raven Guard,,,False,False
 Flame Falcons,Renegade/Chaos,,,21,,False,False
+Flames of Aries,Loyalist,Imperium,Imperial Fists,,Active,False,False
 Flesh Eaters,Loyalist,Imperium,Blood Angels,,Active,False,False
 Flesh Tearers,Loyalist,Imperium,Blood Angels,2,Active,False,False
 Fleshreavers,Renegade/Chaos,Khorne,,,Active,False,False
@@ -514,6 +516,7 @@ Immortal Hearts,Loyalist,Imperium,,,,False,False
 Immortal Legion,Renegade/Chaos,,,,Active,False,False
 Imperators,Loyalist,Imperium,,,,False,False
 Imperial Castellans,Loyalist,Imperium,,,,False,False
+Imperial Castilians,Loyalist,Imperium,,,,False,False
 Imperial Fists,Loyalist,Imperium,,1,Active,True,False
 Imperial Harbingers,Loyalist,Imperium,,23,,False,False
 Imperial Hawks,Loyalist,Imperium,,,Active,False,False
@@ -569,13 +572,14 @@ Kha'Sherhan,Renegade/Chaos,Tzeentch,Thousand Sons,,Merged,False,False
 Killmongers,Renegade/Chaos,,,,,False,False
 Kindled Spirits,Renegade/Chaos,Tzeentch,,,Active,False,False
 Knights Cerulean,Loyalist,Imperium,Ultramarines,Ultima,Active,False,False
+Knights Errant,Loyalist,Imperium,,,Renamed,False,False
 Knights Excelsior,Renegade/Chaos,,,,Renamed,False,False
 Knights Obstinate,Loyalist,Imperium,,,Active,False,False
 Knights Sanguine,Loyalist,Imperium,Blood Angels,,Destroyed,False,False
 Knights Unyielding,Loyalist,Imperium,,,,False,False
 Knights of Abhorrence,Loyalist,Imperium,Dark Angels,,Active,False,False
-Knights of Blood (Warband),Renegade/Chaos,,,,,False,False
 Knights of Blood (Chapter),Renegade/Chaos,Imperium,Blood Angels,,Destroyed,False,False
+Knights of Blood (Warband),Renegade/Chaos,,,,,False,False
 Knights of Byzantium,Loyalist,Imperium,Iron Hands,Ultima,Active,False,False
 Knights of Doom,Loyalist,Imperium,,,Active,False,False
 Knights of Dorn,Loyalist,Imperium,Imperial Fists,,,False,False
@@ -654,6 +658,7 @@ Nemesors,Loyalist,Imperium,,Ultima,Active,False,False
 Neverdead,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
 Night Hawks,Loyalist,Imperium,,,,False,False
 Night Lords,Renegade/Chaos,Chaos Undivided,,1,Active,True,False
+Night Raptors,Loyalist,Imperium,,,Active,False,False
 Night Reapers,Renegade/Chaos,,,,,False,False
 Night Sentinels,Loyalist,Imperium,,,Active,False,False
 Night Stalkers,Renegade/Chaos,,,,,False,False
@@ -1078,4 +1083,5 @@ Wrath,Renegade/Chaos,Khorne,,,Active,False,False
 Wrathful Dead,Renegade/Chaos,Khorne,World Eaters,,Destroyed,False,False
 Wrathhost,Loyalist,Imperium,White Scars,,Active,False,False
 Xenash Capensis' Rubric Phalanx,Renegade/Chaos,Tzeentch,Thousand Sons,,Active,False,False
+Xerus Legion,Loyalist,Imperium,,,,False,False
 Yorgol's Vomitmaws,Renegade/Chaos,Nurgle,,,Active,False,False
