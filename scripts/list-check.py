@@ -44,3 +44,6 @@ for chapter in chapters_dataset.chapters:
 print("Missiong in the dataset :")
 for chapter in res_web:
     print(chapter["Name"])
+
+print(f"Dataset : {len(SpaceMarineChaptersDataset.filter_chapter(chapters_dataset.chapters, {"Allegiance": "Loyalist"}))}")
+print(f"Web : {len(web_chapters.chapters)}")
