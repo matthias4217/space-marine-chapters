@@ -292,6 +292,7 @@ Daggerfangs,Renegade/Chaos,Chaos Undivided,Alpha Legion,,Active,False,False
 Darganti Revenants,Renegade/Chaos,,Alpha Legion,,Active,False,False
 Dark Angels,Loyalist,Imperium,,1,Active,True,False
 Dark Brotherhood,Loyalist,Imperium,,,Active,False,False
+Dark Brotherhood (Blackshields),Renegade/Chaos,,,M31,,False,False
 Dark Castellans,Renegade/Chaos,Chaos Undivided,Iron Warriors,,,False,False
 Dark Crusaders,Loyalist,Imperium,,,Active,False,False
 Dark Eagles,Loyalist,Imperium,,,Active,False,False
@@ -307,6 +308,7 @@ Darkspires,Loyalist,Imperium,,,Active,False,False
 Darkstrike,Renegade/Chaos,,Night Lords,,Active,False,False
 Death Bringers,Renegade/Chaos,Nurgle,,,Active,False,False
 Death Eagles,Loyalist,Imperium,,,Active,False,False
+Death Eagles (Blackshields),Loyalist,Imperium,Emperor's Children,M31,,False,False
 Death Falcons,Renegade/Chaos,,,,Renamed,False,False
 Death Guard,Renegade/Chaos,Nurgle,,1,Active,True,False
 Death Hawks,Loyalist,Imperium,,,,False,False
@@ -436,6 +438,7 @@ Fulminators,Loyalist,Imperium,Ultramarines,Ultima,Active,False,False
 Furor Marines,Loyalist,Imperium,,,,False,False
 Garazak's Skullreapers,Renegade/Chaos,Khorne,World Eaters,,Active,False,False
 Genesis Chapter,Loyalist,Imperium,Ultramarines,2,Active,False,False
+Gerasene Host,Renegade/Chaos,,,M31,,False,False
 Germinatoris,Renegade/Chaos,Nurgle,,,,False,False
 Gilded Manifestans,Renegade/Chaos,Tzeentch,The Scourged,,Active,False,False
 Gilded Sons,Loyalist,Imperium,,,Active,False,False
@@ -1000,6 +1003,7 @@ The Tormented,Renegade/Chaos,,Black Legion,,,False,False
 The Unclean,Renegade/Chaos,,,,Active,False,False
 The Unhallowed,Renegade/Chaos,,Invictors,M37,,False,False
 The Unnamed,Loyalist,Imperium,Dark Angels,Ultima,Active,False,False
+Third Covenant,Renegade/Chaos,,,M31,,False,False
 Third Harrow,Renegade/Chaos,,Alpha Legion,,Active,False,False
 Thirsting Brethren,Renegade/Chaos,Slaanesh,Emperor's Children,,Active,False,False
 Thousand Sons,Renegade/Chaos,Tzeentch,,1,Active,True,False
