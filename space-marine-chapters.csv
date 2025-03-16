@@ -153,6 +153,7 @@ Blood Lords,Loyalist,Imperium,,,,False,False
 Blood Ravens,Loyalist,Imperium,,,Active,False,False
 Blood Reavers,Loyalist,Imperium,,,,False,False
 Blood Scythes,Loyalist,Imperium,Blood Angels,Ultima,Active,False,False
+Blood Sharks,Loyalist,Imperium,,,,False,False
 Blood Storm,Renegade/Chaos,,,,,False,False
 Blood Swords,Loyalist,Imperium,Blood Angels,,Active,False,False
 Blood Templars,Loyalist,Imperium,Blood Angels,,Active,False,False
@@ -895,7 +896,7 @@ Sons of Oblivion,Renegade/Chaos,,Black Legion,,,False,False
 Sons of Orar,Loyalist,Imperium,Ultramarines,,Active,False,False
 Sons of Pertinax,Loyalist,Imperium,,17,,False,False
 Sons of Rot,Renegade/Chaos,Nurgle,,,Active,False,False
-Sons of Sanguinius,Loyalist,Imperium,Blood Angels,,Active,False,False
+Sons of Sanguinius,Loyalist,Imperium,Blood Angels,2,Active,False,False
 Sons of Skalathrax,Renegade/Chaos,Khorne,World Eaters,,Destroyed,False,False
 Sons of Slaughter,Renegade/Chaos,Khorne,World Eaters,,,False,False
 Sons of Sorrow,Renegade/Chaos,Nurgle,Death Guard,,Active,False,False
@@ -1050,6 +1051,7 @@ Void Axes,Loyalist,Imperium,,,Active,False,False
 Void Bringers,Loyalist,Imperium,,,Active,False,False
 Void Claws,Renegade/Chaos,,,,Active,False,False
 Void Daggers,Loyalist,Imperium,,,Active,False,False
+Void Reapers,Loyalist,Imperium,,,,False,False
 Void Sabres,Loyalist,Imperium,Raven Guard,Ultima,Active,False,False
 Void Talons,Loyalist,Imperium,,,,False,False
 Void Tridents,Loyalist,Imperium,Ultramarines,Ultima,Active,False,False
