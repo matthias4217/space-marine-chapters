@@ -5,7 +5,7 @@ Name,Allegiance,Faction,Chapter of origin,Founding,Status,Legion,Homebrew
 3rd Company (Avenging Sons),Renegade/Chaos,,Avenging Sons,,Active,False,False
 66th Armoured Company,Renegade/Chaos,Khorne,World Eaters,,Active,False,False
 9th Company (Black Legion),Renegade/Chaos,,Black Legion,,Active,False,False
-Abrial's Claw,Renegade/Chaos,,Iron Warriors,,,False,False
+Abrial's Claw,Renegade/Chaos,,Iron Warriors,,Active,False,False
 Absolvers,Loyalist,Imperium,Blood Angels,,Active,False,False
 Accipiters,Loyalist,Imperium,,,Active,False,False
 Adamantine Beasts,Renegade/Chaos,,Black Legion,,Active,False,False
@@ -459,6 +459,7 @@ Gorehands,Renegade/Chaos,Khorne,,,Active,False,False
 Gorehounds,Renegade/Chaos,Khorne,,,Active,False,False
 Gorehunters,Renegade/Chaos,Khorne,World Eaters,,Active,False,False
 Goremongers,Renegade/Chaos,Khorne,,,,False,False
+Gorestalkers,Renegade/Chaos,Khorne,,,Active,False,False
 Gorgons,Loyalist,Imperium,,,Active,False,False
 Grail Guard,Loyalist,Imperium,Blood Angels,,Active,False,False
 Grand Guard,Renegade/Chaos,,,,Active,False,False
