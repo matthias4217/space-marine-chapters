@@ -12,6 +12,25 @@ class SpaceMarineChaptersDataset:
         for file in files:
             self.chapters += self.import_chapters_from_file(file)
 
+    def add_chapter(self, chapter_name, allegiance="", faction="", chapter_of_origin="", founding="", status="", legion=False,homebrew=False):
+        self.chapters.append({
+                    "Name": chapter_name,
+                    "Allegiance": allegiance,
+                    "Faction": faction,
+                    "Chapter of origin": chapter_of_origin,
+                    "Founding": founding,
+                    "Status": status,
+                    "Legion": legion,
+                    "Homebrew": homebrew,
+                    })
+    
+    def remove_chapter(self, chapter_name):
+        """Remove chapter with name chapter_name. This function returns the chapter removed if it has been found, and None if nothing has been removed."""
+        for chapter in self.chapters:
+            if chapter["Name"] == chapter_name:
+                self.chapters.remove(chapter)
+                return chapter
+        return None
 
     def get_chapter(self, chapter_name: str) -> dict|None:
         """
